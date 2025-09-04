@@ -37,7 +37,7 @@ The application accepts the following property details:
 
 1. **Run the application**:
    ```bash
-   streamlit run app.py
+   python -m streamlit run app.py
    ```
 
 2. **Open your browser** and navigate to the URL shown in the terminal (usually `http://localhost:8501`)
