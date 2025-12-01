@@ -1,6 +1,6 @@
 # 🏠 House Price Predictor
 
-A beautiful Streamlit web application for predicting house prices using machine learning.
+A beautiful Streamlit web application for predicting house prices using machine learning
 
 ## Features
 
